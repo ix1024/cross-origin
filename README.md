@@ -15,5 +15,8 @@
     var app = express();
     var crossOrigin = require('cross-origin');
     app.use(crossOrigin);
-    
     ...
+
+
+* origin: *
+* allowMethods: GET,HEAD,PUT,POST,DELETE,PATCH
