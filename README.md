@@ -14,4 +14,4 @@
     var express = require('express');
     var app = express();
     var crossOrigin = require('cross-origin');
-    app(crossOrigin);
+    app.use(crossOrigin);
