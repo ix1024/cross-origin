@@ -1,2 +1,2 @@
 # cross-origin
-cross-origin
+cross-origin for express
