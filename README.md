@@ -1,6 +1,8 @@
 # cross-origin
 
+
 [![npm version](https://badge.fury.io/js/cross-origin.svg)](http://badge.fury.io/js/cross-origin)
+
 
 > cross-origin for express
 
