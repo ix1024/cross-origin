@@ -1,13 +1,18 @@
 {
   "name": "cross-origin",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "Cross-Origin",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [
-    "Cross-Origin"
+    "Cross-Origin",
+    "crossOrigin",
+    "express"
+    "Origin"
+    "JSONP"
+    "Cross-origin resource sharing"
   ],
   "repository": {
     "type": "git",
@@ -16,6 +21,7 @@
   "bugs": {
     "url": "https://github.com/lengjh/cross-origin/issues"
   },
+  "": "",
   "homepage": "https://github.com/lengjh/cross-origin#readme",
   "author": "kingwell",
   "license": "ISC"
